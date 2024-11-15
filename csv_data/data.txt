@@ -1,0 +1,17 @@
+instruction : 140000
+Rang : 0 - 200
+Cache Size : 25 
+LRU : 136527
+Weighted : 136533
+Cache Size : 50
+LRU: 106154
+Weighted : 105753
+Cache Size : 100 
+LRU : 71667
+Weighted : 70004
+Cache Size : 150
+LRU : 36478
+Weighted : 35222
+
+
+

@@ -1,0 +1,27 @@
+instruction : 140000
+Rang : 0 - 200
+Cache Size : 25 
+LRU : 123090
+Weighted : 122947
+LFRU : 122749
+LFU : 122604
+FIFO : 122771
+Cache Size : 50
+LRU: 106154
+Weighted : 105753
+LFRU : 105379
+LFU : 105086
+FIFO : 105291
+Cache Size : 100 
+LRU : 71667
+Weighted : 70004
+LFRU : 70606
+LFU : 70666
+FIFO : 70177
+Cache Size : 150
+LRU : 36478
+Weighted : 35222
+LFRU : 35937
+LFU : 35794
+FIFO : 35657
+
